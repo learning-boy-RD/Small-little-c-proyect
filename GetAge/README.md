@@ -1,5 +1,7 @@
-# Small-little-cpp-proyect
+# GetAge
 
- This is not a serious proyect, is just to upload little c++ programs to solve little 'problems'... but When i get better in english, javascript/html/css and python (also math and algorithns,datastrucure etc..) I Will dedicate to learn c++(my first and my favorite programing language) a lot better and write programs with it,also i will create a new repository when thats happen to upload better or bigger proyects in c++. 
+This proyect has finished. The program can tell you an age from the following data: Year,month,and day of birth... if you dont have the day or month the  program can still give you the age but  there is posibility(1/2) that give you the age wrong by one(1) year.
  
- :)
+ -Compiled for windows with MinGW, you can also compile it for other system.
+ 
+ -GetDate.hpp is a library made by me that have funtions to get the current year, day, or month easier using ctime(http://www.cplusplus.com/reference/ctime/)
